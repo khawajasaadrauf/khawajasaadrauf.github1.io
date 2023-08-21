@@ -2,6 +2,11 @@
 
 ---
 
+
+
+
+
+
 ## [Learn About Me](/aboutme.md)
 
 #### [Internal Blog Post Project](/bank)
